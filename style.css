@@ -7,4 +7,18 @@
     height: 100%;
     display: block;
     -webkit-transform: translateZ(0)
+    
+}
+h1{
+    font-size: 20px;
+    color: red;
+    text-align:center;
+    font-style: italic;
+   color: rgba(red, green, blue, alpha);
+}
+h2{
+    text-align: center;
+    position: relative;
+    bottom: 410px;
+    font-size: 50px;
 }
